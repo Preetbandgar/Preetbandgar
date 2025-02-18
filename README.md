@@ -9,9 +9,9 @@
 - 🌱 &nbsp; Enthusiast in **cloud computing**, **containerization**, **CI/CD pipelines**, and **infrastructure automation**.
 - 🛠 &nbsp; Skilled in **AWS**, **Azure**, **Docker**, **Kubernetes**, **Terraform**, and **Ansible**.
 - 💼 &nbsp; Passionate about automating cloud infrastructure and ensuring high availability and security of applications.
-- 🍵 &nbsp; I believe a good cup of tea fuels my focus and productivity when tackling DevOps challenges.
 - 🎬 &nbsp; I enjoy watching **anime** and listening to music in my free time.
 - 🍳 &nbsp; **Cooking** is one of my favorite hobbies, and I love experimenting with new recipes.
+- 🍵 &nbsp; I believe a good cup of tea fuels my focus and productivity when tackling DevOps challenges.
 
 <h3>🛠 Tech Stack</h3>
 
