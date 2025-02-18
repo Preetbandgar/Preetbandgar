@@ -1,12 +1,10 @@
-# Hi there, I'm Pritam Bandgar! 👋  
+# Hi there, I'm Pritam Bandgar! 👋
 
-🚀 **Cloud Infrastructure Specialist | Automation Enthusiast | CI/CD Advocate**  
-
-I am passionate about building and automating cloud infrastructure, ensuring scalability, performance, and security in enterprise environments. With a strong focus on **cloud computing**, **automation**, and **CI/CD pipelines**, I utilize cutting-edge tools like **AWS**, **Docker**, **Kubernetes**, **Terraform**, **Jenkins**, and **Ansible** to create efficient and reliable solutions.
+I have a strong background in **cloud infrastructure**, **automation**, and **CI/CD pipelines**. My work revolves around creating scalable, secure, and efficient solutions using tools like **AWS**, **Docker**, **Kubernetes**, **Terraform**, **Jenkins**, and **Ansible**. I focus on optimizing cloud environments and automating tasks to ensure better performance and reliability.
 
 ---
 
-## 🔧 **Tech Stack & Expertise**  
+## 🔧 **Tech Stack & Skills**  
 
 ### ☁ **Cloud & Infrastructure**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)  
@@ -16,7 +14,7 @@ I am passionate about building and automating cloud infrastructure, ensuring sca
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)  
 
-### 🛠 **Automation & Orchestration**  
+### 🛠 **DevOps & Automation**  
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)  
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)  
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)  
@@ -38,33 +36,16 @@ I am passionate about building and automating cloud infrastructure, ensuring sca
 
 ---
 
-## 📌 **Projects & Contributions**  
+## 📌 **About Me**  
 
-### **📌 Health Insurance System (HIS) - Cloud Migration**  
-- Migrated a large-scale **Health Insurance System** to AWS Cloud, ensuring high availability.  
-- Utilized **Terraform, Ansible, Kubernetes (EKS), and Jenkins** for seamless automation and deployment.  
-- Configured **CloudWatch, Prometheus, and Grafana** to achieve **99.9% uptime monitoring**.  
-- Automated provisioning with Terraform and Ansible, reducing deployment time by **30%**.
+I have experience working with a variety of **cloud technologies** and **automation tools**. My primary focus has been to help organizations build **secure**, **scalable**, and **automated cloud infrastructures** that can grow with the needs of the business. I enjoy solving complex problems with **infrastructure-as-code (IaC)**, containerization, and continuous integration/deployment practices.
 
-### **📌 CI/CD Pipeline Automation - STAUN App**  
-- Designed and implemented **Jenkins-based CI/CD pipelines** to streamline deployments.  
-- Containerized applications with **Docker** and orchestrated them with **Kubernetes (EKS)**.  
-- Integrated **SonarQube for code quality** and **Trivy for vulnerability scanning**.  
-- Automated deployments using **Nexus, YAML, and Shell scripting**, boosting efficiency by **40%**.
-
-🚀 **Check out my repositories for more projects!**
-
----
-
-## 📈 **GitHub Stats**  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Preetbandgar&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Preetbandgar&theme=radical&hide_border=true" width="48%" alt="GitHub Streak">
-</p>
+I aim to keep learning and growing by leveraging **cloud computing** to build efficient, high-performance systems. Whether it's automating deployment pipelines or managing large-scale cloud resources, I'm always looking for ways to optimize operations and improve system reliability.
 
 ---
 
 ## 📫 **Let's Connect!**  
 
-⭐ **If you like my work, feel free to fork and star my repositories!** 😊
+Feel free to explore my repositories, reach out, or discuss potential collaborations!
+
+---
