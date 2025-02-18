@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Pritam Bandgar. 👋 </h2>
+<h2> Hey there! I'm Pritam. <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h2>
 
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="400"/>
 
@@ -12,6 +12,7 @@
 - 🍵 &nbsp; I believe a good cup of tea fuels my focus and productivity when tackling DevOps challenges.
 - 🎬 &nbsp; I enjoy watching **anime** and listening to music in my free time.
 - 🍳 &nbsp; **Cooking** is one of my favorite hobbies, and I love experimenting with new recipes.
+
 
 <h3>🛠 Tech Stack</h3>
 
