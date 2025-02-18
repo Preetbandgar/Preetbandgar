@@ -41,7 +41,8 @@
 </p>
 
 Aaahhhhhh !! My contribution graph is getting eaten... 😶
-<<p> 
+
+<p> 
  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/output/github-contribution-grid-snake.gif" />
 </p>
 
