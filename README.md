@@ -5,14 +5,13 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently working with **cloud technologies** and **DevOps practices**.
-- 🤔 &nbsp; Exploring new tools and methodologies for automation and optimizing cloud environments.
-- 🌱 &nbsp; Enthusiast in **cloud computing**, **containerization**, **CI/CD pipelines**, and **infrastructure automation**.
 - 🛠 &nbsp; Skilled in **AWS**, **Azure**, **Docker**, **Kubernetes**, **Terraform**, and **Ansible**.
+- 🌱 &nbsp; Enthusiast in **cloud computing**, **containerization**, **CI/CD pipelines**, and **infrastructure automation**.
 - 💼 &nbsp; Passionate about automating cloud infrastructure and ensuring high availability and security of applications.
+- 🤔 &nbsp; Exploring new tools and methodologies for automation and optimizing cloud environments.
 - 🍵 &nbsp; I believe a good cup of tea fuels my focus and productivity when tackling DevOps challenges.
 - 🎬 &nbsp; I enjoy watching **anime** and listening to music in my free time.
 - 🍳 &nbsp; **Cooking** is one of my favorite hobbies, and I love experimenting with new recipes.
-
 
 <h3>🛠 Tech Stack</h3>
 
