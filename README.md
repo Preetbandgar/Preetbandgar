@@ -1,8 +1,8 @@
 # Hi there, I'm Pritam Bandgar! 👋  
 
-🚀 **DevOps Engineer | Cloud Architect | Automation Enthusiast**  
+🚀 **Cloud Infrastructure Specialist | Automation Enthusiast | CI/CD Advocate**  
 
-I am a **DevOps Engineer** with **3.1+ years of experience** specializing in **Cloud Infrastructure, CI/CD Automation, and Security**. My expertise includes **AWS, Kubernetes, Docker, Terraform, Jenkins, and Ansible**, with a strong focus on optimizing performance, ensuring security, and automating deployment processes. I am passionate about leveraging DevOps best practices to improve system efficiency and reliability.
+I am passionate about building and automating cloud infrastructure, ensuring scalability, performance, and security in enterprise environments. With a strong focus on **cloud computing**, **automation**, and **CI/CD pipelines**, I utilize cutting-edge tools like **AWS**, **Docker**, **Kubernetes**, **Terraform**, **Jenkins**, and **Ansible** to create efficient and reliable solutions.
 
 ---
 
@@ -10,11 +10,13 @@ I am a **DevOps Engineer** with **3.1+ years of experience** specializing in **C
 
 ### ☁ **Cloud & Infrastructure**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)  
+
+### 🖥 **Operating Systems**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)  
 
-### 🛠 **DevOps & Automation**  
+### 🛠 **Automation & Orchestration**  
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)  
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)  
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)  
@@ -39,18 +41,18 @@ I am a **DevOps Engineer** with **3.1+ years of experience** specializing in **C
 ## 📌 **Projects & Contributions**  
 
 ### **📌 Health Insurance System (HIS) - Cloud Migration**  
-🔹 Migrated a large-scale **Health Insurance System** to AWS Cloud, ensuring high availability.  
-🔹 Used **Terraform, Ansible, Kubernetes (EKS), Jenkins** for automation & deployment.  
-🔹 Configured **CloudWatch, Prometheus, Grafana** for **99.9% uptime monitoring**.  
-🔹 Automated provisioning with Terraform & Ansible, reducing deployment time by **30%**.  
+- Migrated a large-scale **Health Insurance System** to AWS Cloud, ensuring high availability.  
+- Utilized **Terraform, Ansible, Kubernetes (EKS), and Jenkins** for seamless automation and deployment.  
+- Configured **CloudWatch, Prometheus, and Grafana** to achieve **99.9% uptime monitoring**.  
+- Automated provisioning with Terraform and Ansible, reducing deployment time by **30%**.
 
 ### **📌 CI/CD Pipeline Automation - STAUN App**  
-🔹 Designed and deployed **Jenkins-based CI/CD Pipelines** for automation.  
-🔹 Used **Docker & Kubernetes (EKS)** to containerize applications.  
-🔹 Integrated **SonarQube for code quality checks & Trivy for vulnerability scanning**.  
-🔹 Automated deployments using **Nexus, YAML, and Shell scripting**, improving efficiency by **40%**.  
+- Designed and implemented **Jenkins-based CI/CD pipelines** to streamline deployments.  
+- Containerized applications with **Docker** and orchestrated them with **Kubernetes (EKS)**.  
+- Integrated **SonarQube for code quality** and **Trivy for vulnerability scanning**.  
+- Automated deployments using **Nexus, YAML, and Shell scripting**, boosting efficiency by **40%**.
 
-🚀 **Check out my repositories for more projects!**  
+🚀 **Check out my repositories for more projects!**
 
 ---
 
@@ -65,6 +67,4 @@ I am a **DevOps Engineer** with **3.1+ years of experience** specializing in **C
 
 ## 📫 **Let's Connect!**  
 
-⭐ **If you like my work, feel free to fork and star my repositories!** 😊  
-
----
+⭐ **If you like my work, feel free to fork and star my repositories!** 😊
