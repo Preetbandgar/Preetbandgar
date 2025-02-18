@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Pritam Bandgar. 👋 </h2>
 
-<img align="right" alt="DevOps GIF" src="https://media.giphy.com/media/xT0xeJpnYHgR3tPjpC/giphy.gif" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
