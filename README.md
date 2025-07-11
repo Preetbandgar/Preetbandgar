@@ -1,39 +1,86 @@
-<h2> Hey there! I'm Pritam. <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="420"/>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h2>Hey there! I'm Pritam <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h2>  
+<img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="420" alt="Robotics GIF"/>
 
-- 🔭 &nbsp; I’m currently working with **cloud technologies** and **DevOps practices**.
-- 🛠 &nbsp; Skilled in **AWS**, **Azure**, **Docker**, **Kubernetes**, **Terraform**, and **Ansible**.
-- 🌱 &nbsp; Enthusiast in **cloud computing**, **containerization**, **CI/CD pipelines**, and **infrastructure automation**.
-- 💼 &nbsp; Passionate about automating cloud infrastructure and ensuring high availability and security of applications.
-- 🤔 &nbsp; Exploring new tools and methodologies for automation and optimizing cloud environments.
-- 🍵 &nbsp; I believe a good cup of tea fuels my focus and productivity when tackling DevOps challenges.
-- 🎬 &nbsp; I enjoy watching **anime** and listening to music in my free time.
-- 🍳 &nbsp; **Cooking** is one of my favorite hobbies, and I love experimenting with new recipes.
+## 👨🏻‍💻 About Me
 
-<h3>🛠 Tech Stack</h3>
+I'm a Robotics Software Engineer with an academic background in **Automation, Control & Robotics** (Sheffield Hallam University, UK) and a passion for developing scalable, intelligent robotic systems with real-world applicability.
 
-- ☁️ &nbsp; AWS | Azure  
-- 🖥 &nbsp; Linux (RHEL, CentOS, Ubuntu) | Windows  
-- 🔧 &nbsp; Docker | Kubernetes | Terraform | Jenkins | Ansible  
-- 💻 &nbsp; Python | Shell Scripting | YAML  
-- 🗃 &nbsp; Git | GitHub | Jira | SonarQube  
-- 🔍 &nbsp; Prometheus | Grafana | Trivy  
+- 🎓 MSc in Automation, Control & Robotics – *Sheffield Hallam University, UK*
+- 🤖 Proficient in **ROS2**, **Gazebo**, **RViz**, **SLAM**, and robotics simulation tools
+- 💻 Skilled in **Python** and currently upskilling in **C++** for real-time control and navigation systems
+- ☁️ Completed independent DevOps projects using **Docker**, **Kubernetes**, **Terraform**, and **AWS**
+- 🔄 Transitioned from DevOps learning into **Robotics Software Engineering** to match my academic specialization and professional vision
+- 🌐 Seeking **remote internships**, and **entry-level or junior roles in India** (remote or onsite). Open to **opportunities abroad** in Europe, UK, Canada, Germany, Australia, and beyond
+- 🎮 Outside tech, I enjoy **anime**, **gaming**, **music**, and experimenting in the kitchen
 
-<br>
+---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Preetbandgar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Pritam's Github Stats">
+## 🛠 Tech Stack
 
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Preetbandgar&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Preetbandgar/github-readme-stats)
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-&nbsp; <a href="mailto:bandgar.pritam8@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
-&nbsp; <a href="https://x.com/P_r_i_t_" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a> 
+<p align="left">
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ROS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gazebo-2F80ED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RViz-2C2E3A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SLAM-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
+---
+
+## 🔧 Robotics Projects (Coming Soon)
+
+> These projects reflect the kind of real-world systems I’m actively developing — ROS2-based, simulation-ready, and cloud-deployable:
+
+- 🤖 **Multi-Robot Navigation & Obstacle Avoidance using ROS2 and SLAM Toolbox**  
+- ☁️ **End-to-End Robotics Simulation Pipeline on AWS RoboMaker with CI/CD via GitHub Actions**  
+- 🛰️ **Real-Time ROS2 Node Deployment with Kubernetes + Helm for Distributed Robot Control**  
+- 🌐 **Autonomous Indoor Mapping using Cartographer + RViz with Web UI Dashboard (Flask + ROSBridge)**  
+- 🧭 **Gazebo Simulation with ROS2 Nav2 Stack + Dockerized Deployment in Hybrid Edge/Cloud Setup**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Preetbandgar&show_icons=true&count_private=true&include_all_commits=true&hide=issues&theme=radical&title_color=FFA500&icon_color=F8F8FF&text_color=FFFFFF&bg_color=0,000000,130F40" width="490"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetbandgar&layout=compact&langs_count=6&hide=css,html,shell&theme=radical&title_color=FFA500&text_color=FFFFFF&bg_color=0,000000,130F40" width="320"/>
+</p>
+
+---
+
+## 🤝🏻 Connect with Me
+
+<p align="center">
+  <a href="mailto:bandgar.pritam8@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/P_r_i_t_" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" alt="Twitter"/>
+  </a>
+</p>
+
+---
+
+> 💬 I’m actively seeking **entry-level or junior roles** in **Robotics Software Engineering**, and open to both **remote and onsite opportunities within India** — including **remote internships**. Additionally, I welcome **international opportunities** (remote or onsite) across global innovation hubs such as **Europe, the UK, Germany, Canada, Australia**, and beyond, in the fields of **robotics and automation**.
 
