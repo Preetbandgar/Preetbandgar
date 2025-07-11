@@ -1,3 +1,4 @@
+
 <h2>Hey there! I'm Pritam <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h2>  
 <img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="420" alt="Robotics GIF"/>
 
@@ -8,7 +9,7 @@ I'm a Robotics Software Engineer passionate about developing scalable, intellige
 - 🎓 MSc in Automation, Control & Robotics – *Sheffield Hallam University, UK*  
 - 🤖 Proficient in **ROS2**, **Gazebo**, **RViz**, **SLAM**, and robotics simulation tools  
 - 💻 Skilled in **Python**, currently learning **C++** for real-time navigation and perception systems  
-- ☁️ Completed independent DevOps projects using **Docker**, **Kubernetes**, **Terraform**, **Ansible** and **AWS**  
+- ☁️ Completed independent DevOps projects using **Docker**, **Kubernetes**, **Terraform**, and **AWS**  
 - 🔄 Transitioned from DevOps learning into **Robotics Software Engineering** to align with my core academic background and long-term goals  
 - 🌍 Open to **remote internships**, and **entry-level or junior roles in India** (remote or onsite). Also open to **international opportunities** in Europe, UK, Canada, Germany, Australia, and beyond  
 - 🎮 Outside tech, I enjoy **anime**, **gaming**, **music**, and cooking experiments  
@@ -51,6 +52,13 @@ I'm a Robotics Software Engineer passionate about developing scalable, intellige
 - 🛰️ **Real-Time ROS2 Node Deployment with Kubernetes + Helm for Distributed Robot Control**  
 - 🌐 **Autonomous Indoor Mapping using Cartographer + RViz with Web UI Dashboard (Flask + ROSBridge)**  
 - 🧭 **Gazebo Simulation with ROS2 Nav2 Stack + Dockerized Deployment in Hybrid Edge/Cloud Setup**
+
+---
+
+## 🛠 Additional Engineering Tools
+
+- 🧪 **MATLAB / Simulink** – Control systems modeling and signal processing  
+- 🧱 **CATIA V5 / SolidWorks** – CAD modeling for mechanical and mechatronics design  
 
 ---
 
