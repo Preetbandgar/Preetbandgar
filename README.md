@@ -4,7 +4,7 @@
 
 ## 👨🏻‍💻 About Me
 
-I'm a Robotics Software Engineer with an academic background in **Automation, Control & Robotics** (Sheffield Hallam University, UK) and a passion for developing scalable, intelligent robotic systems with real-world applicability.
+I'm a Robotics Software Engineer with an academic background in **Automation, Control & Robotics** and a passion for developing scalable, intelligent robotic systems with real-world applicability.
 
 - 🎓 MSc in Automation, Control & Robotics – *Sheffield Hallam University, UK*
 - 🤖 Proficient in **ROS2**, **Gazebo**, **RViz**, **SLAM**, and robotics simulation tools
