@@ -1,18 +1,17 @@
-
 <h2>Hey there! I'm Pritam <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h2>  
 <img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="420" alt="Robotics GIF"/>
 
 ## 👨🏻‍💻 About Me
 
-I'm a Robotics Software Engineer with an academic background in **Automation, Control & Robotics** and a passion for developing scalable, intelligent robotic systems with real-world applicability.
+I'm a Robotics Software Engineer passionate about developing scalable, intelligent robotic systems using modern frameworks like ROS2, Gazebo, and SLAM.
 
 - 🎓 MSc in Automation, Control & Robotics – *Sheffield Hallam University, UK*
-- 🤖 Proficient in **ROS2**, **Gazebo**, **RViz**, **SLAM**, and robotics simulation tools
-- 💻 Skilled in **Python** and currently upskilling in **C++** for real-time control and navigation systems
-- ☁️ Completed independent DevOps projects using **Docker**, **Kubernetes**, **Terraform**, and **AWS**
-- 🔄 Transitioned from DevOps learning into **Robotics Software Engineering** to match my academic specialization and professional vision
-- 🌐 Seeking **remote internships**, and **entry-level or junior roles in India** (remote or onsite). Open to **opportunities abroad** in Europe, UK, Canada, Germany, Australia, and beyond
-- 🎮 Outside tech, I enjoy **anime**, **gaming**, **music**, and experimenting in the kitchen
+- 🤖 Proficient in **ROS2**, **Gazebo**, **RViz**, **SLAM**, and robotics simulation tools  
+- 💻 Skilled in **Python** and currently upskilling in **C++** for real-time control and navigation systems  
+- ☁️ Completed independent DevOps projects using **Docker**, **Kubernetes**, **Terraform**, and **AWS**  
+- 🔄 Transitioned from DevOps learning into **Robotics Software Engineering** to match my academic specialization and professional vision  
+- 🌐 Seeking **remote internships**, and **entry-level or junior roles in India** (remote or onsite). Open to **opportunities abroad** in Europe, UK, Canada, Germany, Australia, and beyond  
+- 🎮 Outside tech, I enjoy **anime**, **gaming**, **music**, and experimenting in the kitchen  
 
 ---
 
@@ -63,7 +62,7 @@ I'm a Robotics Software Engineer with an academic background in **Automation, Co
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetbandgar&layout=compact&langs_count=6&hide=css,html,shell&theme=radical&title_color=FFA500&text_color=FFFFFF&bg_color=0,000000,130F40" width="320"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetbandgar&layout=compact&langs_count=6&hide=css,html,shell,c&theme=radical&title_color=FFA500&text_color=FFFFFF&bg_color=0,000000,130F40" width="320"/>
 </p>
 
 ---
@@ -83,4 +82,3 @@ I'm a Robotics Software Engineer with an academic background in **Automation, Co
 ---
 
 > 💬 I’m actively seeking **entry-level or junior roles** in **Robotics Software Engineering**, and open to both **remote and onsite opportunities within India** — including **remote internships**. Additionally, I welcome **international opportunities** (remote or onsite) across global innovation hubs such as **Europe, the UK, Germany, Canada, Australia**, and beyond, in the fields of **robotics and automation**.
-
