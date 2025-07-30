@@ -1,18 +1,17 @@
-
 <h2>Hey there! I'm Pritam <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h2>  
 <img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="420" alt="Robotics GIF"/>
 
 ## 👨🏻‍💻 About Me
 
-I'm a Robotics Engineer passionate about developing scalable, intelligent robotic systems using modern frameworks like ROS2, Gazebo, SLAM, DevOps & Cloud.
+I'm a Robotics Engineer passionate about building scalable and intelligent robotic systems using ROS2, Gazebo, SLAM, and cloud-based tools.
 
-- 🎓 MSc in Automation, Control & Robotics – *Sheffield Hallam University, UK*  
-- 🤖 Proficient in **ROS2**, **Gazebo**, **RViz**, **SLAM**, and robotics simulation tools  
-- 💻 Skilled in **Python**, currently learning **C++** for real-time navigation and perception systems  
-- ☁️ Completed independent DevOps projects using **Docker**, **Kubernetes**, **Terraform**, and **AWS**  
-- 🔄 Transitioned from DevOps learning into **Robotics Software Engineering** to align with my core academic background and long-term goals  
-- 🌍 Open to **remote internships**, and **entry-level or junior roles in India** (remote or onsite). Also open to **international opportunities** in Europe, UK, Canada, Germany, Australia, and beyond  
-- 🎮 Outside tech, I enjoy **anime**, **gaming**, **music**, and cooking experiments  
+- 🎓 MSc in Automation, Control & Robotics – Sheffield Hallam University, UK  
+- 🤖 Skilled in **ROS2**, **Gazebo**, **RViz**, **SLAM**, **Nav2**, and robotic simulation workflows  
+- 💻 Programming with **Python**; currently learning **C++** for performance-critical robotics applications  
+- ☁️ Hands-on experience with **Docker**, **Kubernetes**, **Terraform**, and **AWS RoboMaker** for simulation and robotics deployment  
+- 🔄 Transitioned from DevOps training into robotics roles, aligning with my academic background and project work  
+- 🌍 Open to entry-level or junior roles in robotics (simulation, software, automation, SLAM) — remote or on-site (India, Europe, UK, Canada, Australia, etc.)  
+- 🍳 Outside tech, I enjoy anime, gaming, music, and cooking  
 
 ---
 
@@ -27,7 +26,6 @@ I'm a Robotics Engineer passionate about developing scalable, intelligent roboti
   <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-ffcc00?style=for-the-badge&logo=mathworks&logoColor=black"/>
   <br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -35,32 +33,30 @@ I'm a Robotics Engineer passionate about developing scalable, intelligent roboti
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
 ---
 
-## 🤖 Robotics Projects (In Progress)
+## 🚧 Ongoing Projects
 
-These are the current robotics software projects I'm actively building:
+These are robotics projects I’ve just started building and will update progressively:
 
-- 🏭 Cloud-Based Multi-Robot Navigation in Simulated Warehouse  
+- 🛰️ **Cloud-Based Multi-Robot Navigation in Simulated Warehouse**  
   (ROS2 + SLAM Toolbox + Nav2 + AWS RoboMaker + Docker + Terraform + CI/CD)
 
-- 🧭 ROS2 Autonomous Maze Navigation Bot  
+- 🧭 **ROS2 Autonomous Maze Navigation Bot**  
   (RTAB-Map SLAM + Nav2 + RViz + TF + URDF for TurtleBot3)
 
 ---
 
-## 🧰 Additional Engineering Tools
+## 🛠 Engineering Tools
 
-- 🧪 MATLAB / Simulink – control systems modeling and signal processing  
-- 🧱 CATIA V5 / SolidWorks – mechanical and robotics CAD  
+- 🧪 MATLAB / Simulink – Control systems modeling and signal processing  
+- 🧱 CATIA V5 / SolidWorks – CAD modeling for mechanical and mechatronics design  
 
 ---
 
@@ -90,4 +86,4 @@ These are the current robotics software projects I'm actively building:
 
 ---
 
-> 💬 I’m actively seeking entry-level or internship opportunities as a Robotics Engineer. Open to both remote and onsite roles — in India or globally (UK, Germany, EU, Canada, Australia, Singapore, Japan).
+> 💬 I’m actively seeking entry-level or junior roles in the robotics domain (navigation, simulation, cloud deployment, automation). I’m open to remote roles as well as relocation opportunities across India, the UK, Germany, EU, Canada, Australia, or Japan.
