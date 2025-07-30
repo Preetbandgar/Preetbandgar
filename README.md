@@ -4,7 +4,7 @@
 
 ## 👨🏻‍💻 About Me
 
-I'm a Robotics Engineer passionate about developing scalable, intelligent robotic systems using modern frameworks like ROS2, Gazebo, and SLAM.
+I'm a Robotics Engineer passionate about developing scalable, intelligent robotic systems using modern frameworks like ROS2, Gazebo, SLAM, DevOps & Cloud.
 
 - 🎓 MSc in Automation, Control & Robotics – *Sheffield Hallam University, UK*  
 - 🤖 Proficient in **ROS2**, **Gazebo**, **RViz**, **SLAM**, and robotics simulation tools  
@@ -90,4 +90,4 @@ These are the current robotics software projects I'm actively building:
 
 ---
 
-> 💬 I’m actively seeking entry-level or internship opportunities in Robotics Software Engineering. Open to both remote and onsite roles — in India or globally (UK, Germany, EU, Canada, Australia, Singapore, Japan).
+> 💬 I’m actively seeking entry-level or internship opportunities as a Robotics Engineer. Open to both remote and onsite roles — in India or globally (UK, Germany, EU, Canada, Australia, Singapore, Japan).
