@@ -87,3 +87,4 @@ These are robotics projects I’ve just started building and will update progres
 ---
 
 > 💬 I’m actively seeking entry-level or junior roles in the robotics domain (navigation, simulation, cloud deployment, automation). I’m open to remote roles as well as relocation opportunities across India, the UK, Germany, EU, Canada, Australia, or Japan.
+
