@@ -6,12 +6,13 @@
 I'm a Robotics Software Engineer passionate about building scalable and intelligent robotic systems using ROS2, Gazebo, SLAM, and cloud-based tools.
 
 - 🎓 MSc in Automation, Control & Robotics – Sheffield Hallam University, UK  
-- 🤖 Skilled in **ROS2**, **Gazebo**, **RViz**, **SLAM**, **Nav2**, and robotic simulation workflows  
+-   🤖 Hands-on experience with **ROS2**, **TF / URDF / Xacro**, **RViz**, **Gazebo**, **SLAM**, and **Nav2** through simulation-based projects
 - 💻 Programming with **Python**; currently learning **C++** for performance-critical robotics applications  
 - ☁️ Hands-on experience with **Docker**, **Kubernetes**, **Terraform**, and **AWS/Azure** for simulation and robotics deployment  
 - 🔄 Transitioned from DevOps training into robotics roles, aligning with my academic background and project work  
-- 🌍 Open to entry-level or junior roles in robotics (simulation, software, automation, SLAM) — remote or on-site (India, Europe, UK, Canada, Australia, etc.)  
-- 🍳 Outside tech, I enjoy anime, gaming, music, and cooking  
+- 🌍 Actively seeking **entry-level / junior robotics software roles** (simulation, navigation, autonomy)  
+
+🍳 Outside tech, I enjoy anime, gaming, music, and cooking  
 
 ---
 
@@ -25,19 +26,16 @@ I'm a Robotics Software Engineer passionate about building scalable and intellig
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
+
 
 ---
 
@@ -53,21 +51,20 @@ These are robotics projects I’ve just started building and will update progres
 
 ---
 
-## 🛠 Engineering Tools
-
-- 🧪 MATLAB / Simulink – Control systems modeling and signal processing  
-- 🧱 CATIA V5 / SolidWorks – CAD modeling for mechanical and mechatronics design  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Preetbandgar&show_icons=true&count_private=true&include_all_commits=true&hide=issues&theme=radical&title_color=FFA500&icon_color=F8F8FF&text_color=FFFFFF&bg_color=0,000000,130F40" width="490"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Preetbandgar&show_icons=true&theme=tokyonight&hide_border=true"
+    width="480"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetbandgar&layout=compact&langs_count=6&hide=css,html,shell,c&theme=radical&title_color=FFA500&text_color=FFFFFF&bg_color=0,000000,130F40" width="320"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetbandgar&layout=compact&theme=tokyonight&hide_border=true"
+    width="360"
+  />
 </p>
 
 ---
@@ -75,16 +72,16 @@ These are robotics projects I’ve just started building and will update progres
 ## 🤝🏻 Connect with Me
 
 <p align="center">
-  <a href="mailto:bandgar.pritam8@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" alt="Gmail"/>
+  <a href="mailto:bandgar.pritam8@gmail.com">
+    <img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50"/>
   </a>
   &nbsp;
-  <a href="https://x.com/P_r_i_t_" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" alt="Twitter"/>
+  <a href="https://x.com/P_r_i_t_">
+    <img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50"/>
   </a>
 </p>
 
 ---
 
-> 💬 I’m actively seeking entry-level or junior roles in the robotics domain (navigation, simulation, cloud deployment, automation). I’m open to remote roles as well as relocation opportunities across India, the UK, Germany, EU, Canada, Australia, or Japan.
-
+> 💬 I’m actively looking for **entry-level or junior roles in robotics software**, especially in simulation, navigation, and autonomous systems.  
+> Open to **remote or on-site opportunities** across India, the UK, EU, Canada, Australia, or Japan.
