@@ -53,7 +53,19 @@ These are robotics projects I’ve just started building and will update progres
 
 ## 📊 GitHub Stats
 
-[![Pritams's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preetbandgar)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Preetbandgar&show_icons=true&theme=tokyonight&hide_border=true"
+    width="480"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetbandgar&layout=compact&theme=tokyonight&hide_border=true"
+    width="360"
+  />
+</p>
 
 ---
 
