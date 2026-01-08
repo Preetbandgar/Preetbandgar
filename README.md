@@ -51,24 +51,6 @@ These are robotics projects I’ve just started building and will update progres
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Preetbandgar&show_icons=true&theme=tokyonight&hide_border=true"
-    width="480"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetbandgar&layout=compact&theme=tokyonight&hide_border=true"
-    width="360"
-  />
-</p>
-
----
-
 ## 🤝🏻 Connect with Me
 
 <p align="center">
