@@ -53,7 +53,7 @@ These are robotics projects I’ve just started building and will update progres
 
 ## 📊 GitHub Stats
 
-[![Pritams's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preetbandgar)](https://github.com/Preetbandgar/github-readme-stats)
+[![Pritams's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preetbandgar)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
