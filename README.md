@@ -3,12 +3,12 @@
 
 ## 👨🏻‍💻 About Me
 
-I'm a Robotics Software Engineer passionate about building scalable and intelligent robotic systems using ROS2, Gazebo, SLAM, and cloud-based tools.
+I'm a Robotics Software Engineer passionate about building scalable and intelligent robotic systems using ROS2, Gazebo, SLAM, Nav2 and cloud-based tools.
 
 - 🎓 MSc in Automation, Control & Robotics – Sheffield Hallam University, UK  
--   🤖 Hands-on experience with **ROS2**, **TF / URDF / Xacro**, **RViz**, **Gazebo**, **SLAM**, and **Nav2** through simulation-based projects
+- 🤖 Hands-on experience with **ROS2**, **TF, URDF / Xacro**, **Foxglove, RViz**, **Gazebo**, **SLAM**, and **Nav2** through simulation-based projects
 - 💻 Programming with **Python**; currently learning **C++** for performance-critical robotics applications  
-- ☁️ Hands-on experience with **Docker**, **Kubernetes**, **Terraform**, and **AWS/Azure** for simulation and robotics deployment  
+- ☁️ Hands-on experience with **Docker**, **Kubernetes**, **Terraform**, and **AWS** for simulation and robotics deployment  
 - 🔄 Transitioned from DevOps training into robotics roles, aligning with my academic background and project work  
 - 🌍 Actively seeking **entry-level / junior robotics software roles** (simulation, navigation, autonomy)  
 
@@ -44,10 +44,10 @@ I'm a Robotics Software Engineer passionate about building scalable and intellig
 These are robotics projects I’ve just started building and will update progressively:
 
 - 🛰️ **Cloud-Based Multi-Robot Navigation in Simulated Warehouse**  
-  (ROS2 + SLAM Toolbox + Nav2 + AWS/Azure + Docker + Terraform + CI/CD)
+  (ROS2 + SLAM Toolbox + Nav2 + Gazebo + Foxglove + AWS + Docker + Terraform + CI/CD)
 
 - 🧭 **ROS2 Autonomous Maze Navigation Bot**  
-  (RTAB-Map SLAM + Nav2 + RViz + TF + URDF for TurtleBot3)
+  (RTAB-Map SLAM + Nav2 + RViz + TF + URDF + Gazebo)
 
 ---
 
