@@ -8,8 +8,7 @@ I'm a Robotics Software Engineer passionate about building scalable and intellig
 - 🎓 MSc in Automation, Control & Robotics – Sheffield Hallam University, UK  
 - 🤖 Hands-on experience with **ROS2**, **TF, URDF / Xacro**, **Foxglove, RViz**, **Gazebo**, **SLAM**, and **Nav2** through simulation-based projects
 - 💻 Programming with **Python**; currently learning **C++** for performance-critical robotics applications  
-- ☁️ Hands-on experience with **Docker**, **Kubernetes**, **Terraform**, and **AWS** for simulation and robotics deployment  
-- 🔄 Transitioned from DevOps training into robotics roles, aligning with my academic background and project work  
+- ☁️ Hands-on experience with **Docker**, **Kubernetes**, **Terraform**, and **AWS** for simulation and robotics deployment   
 - 🌍 Actively seeking **entry-level / junior robotics software roles** (simulation, navigation, autonomy)  
 
 🍳 Outside tech, I enjoy anime, gaming, music, and cooking  
