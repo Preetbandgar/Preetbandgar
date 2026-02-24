@@ -65,4 +65,4 @@ These are robotics projects I’ve just started building and will update progres
 ---
 
 > 💬 I’m actively looking for **entry-level or junior roles in robotics software**, especially in simulation, navigation, and autonomous systems.  
-> Open to **remote or on-site opportunities** across India, the UK, EU, Canada, Australia, or Japan.
+> Open to **remote or on-site opportunities** across India, the UK, EU, and Japan.
