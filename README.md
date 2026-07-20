@@ -38,15 +38,13 @@ I'm a Robotics Software Engineer passionate about building scalable and intellig
 
 ---
 
-## 🚧 Ongoing Projects
+## 🤖 Planned & Ongoing Robotics Projects
 
-These are robotics projects I’ve just started building and will update progressively:
+### 🛰️ Cloud-Based Multi-Robot Warehouse Navigation *(In Progress)*
+Building a cloud-enabled warehouse robotics platform using ROS 2, Nav2, SLAM Toolbox, Gazebo Harmonic, Docker, AWS, and Infrastructure as Code (Terraform). The project focuses on multi-robot coordination, cloud deployment, monitoring, and production-style robotics software engineering.
 
-- 🛰️ **Cloud-Based Multi-Robot Navigation in Simulated Warehouse**  
-  (ROS2 + SLAM Toolbox + Nav2 + Gazebo + AWS + Docker + Terraform )
-
-- 🧭 **ROS2 Autonomous Maze Navigation Bot**  
-  (RTAB-Map SLAM + Nav2 + RViz + TF + URDF + Gazebo)
+### 🤖 Cloud Robotics Fleet Management Platform *(Planned)*
+Developing a production-style cloud robotics platform featuring autonomous mobile robots, fleet management, task scheduling, remote monitoring, diagnostics, logging, and scalable deployment using ROS 2, Docker, AWS, CI/CD, and modern DevOps practices.
 
 ---
 
