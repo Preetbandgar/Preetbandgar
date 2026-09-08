@@ -57,8 +57,7 @@ I'm a Robotics Software Engineer focused on building autonomous robotic systems 
 ### ☁️ Production Cloud Robotics Platform *(Planned)*
 
 - Extend the fleet system with **perception, monitoring, CI/CD, secure communication, and AI-assisted robotics tools**.
-- Focus on practical production features such as **OpenCV, PointCloud2, Prometheus, Grafana, SROS2, rosbag analysis, and predictive maintenance**.
-- Keep the system focused on robotics rather than adding unnecessary infrastructure.
+- Focus on practical production features such as **OpenCV, Prometheus, Grafana, SROS2, rosbag analysis, and predictive maintenance**.
 
 ---
 
